@@ -3,3 +3,6 @@ node_modules
 # parcel files
 .parcel-cache
 dist
+
+# gsap
+gsap-bonus.tgz

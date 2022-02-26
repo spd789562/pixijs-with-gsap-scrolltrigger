@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gsap": "^3.9.1",
+    "gsap": "file:gsap-bonus.tgz",
     "pixi-viewport": "^4.34.4",
     "pixi.js": "^6.2.2"
   },
